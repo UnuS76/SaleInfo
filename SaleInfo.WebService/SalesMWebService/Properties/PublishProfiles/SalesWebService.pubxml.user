@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAooJuZ8ot60Kwzjv623bKegAAAAACAAAAAAAQZgAAAAEAACAAAADcmCYP0U0ZHNyiGjyk0jw4aqjhYZnv52xsExMY0LO4bAAAAAAOgAAAAAIAACAAAAD5LHesf0bHgR6D0uiOJKKrKUyOd8QaCd9kd04jRjPDuSAAAAC3xiUWOHupFsXhjN+OcubqZZpPdbqv5U/lF/Y/Z5aRT0AAAABGgPVQu3ZSiviFkQPjFAk0+PYHrMkuF4SFofOmvdjRPtVNvfCH0xIIM2SluyYbYULyy8rmmL4UF3pDcUf2CeeA</EncryptedPassword>
+    <_PublishTargetUrl>ftp://FTP.SMARTERASP.NET/salesmwebservice</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/HelperLibrary.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>12/14/2016 09:45:54</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>12/13/2016 19:29:38</publishTime>
+    </File>
+    <File Include="bin/SalesMWebService.dll">
+      <publishTime>01/19/2017 19:27:56</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>12/13/2016 19:29:39</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>12/13/2016 19:29:39</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>12/13/2016 19:29:39</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/13/2016 19:51:16</publishTime>
+    </File>
+    <File Include="Global.asax.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>12/13/2016 19:48:25</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/14/2016 09:45:54</publishTime>
+    </File>
+    <File Include="SalesWebService.asmx">
+      <publishTime>12/13/2016 20:13:03</publishTime>
+    </File>
+    <File Include="SalesWebService.asmx.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/16/2016 19:31:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
