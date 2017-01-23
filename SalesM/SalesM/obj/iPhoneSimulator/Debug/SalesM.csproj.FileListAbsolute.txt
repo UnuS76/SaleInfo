@@ -1,0 +1,33 @@
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\bin\iPhoneSimulator\Debug\SalesM.exe
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\bin\iPhoneSimulator\Debug\SalesM.pdb
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\bin\iPhoneSimulator\Debug\Xamarin-Sidebar-Unified.dll
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\bin\iPhoneSimulator\Debug\Xamarin-Sidebar-Unified.dll.mdb
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\Background.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\SidebarNavigation\component\icons\SidebarNavigation_128x128.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\SidebarNavigation\component\icons\SidebarNavigation_512x512.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\threelines.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\Stores\1.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\Stores\2.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\Stores\3.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\Stores\4.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\CellBackground.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\NewDesign\back forword.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\CellBorder.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\DemoBanner.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\NewDesign\closed.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\NewDesign\generate.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\NewDesign\logo.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\NewDesign\password,username or email.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\NewDesign\right rtansparance.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\NewDesign\sign up, log in.png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Images\NewDesign\transparance above store .png
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\SalesM.exe
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\SalesM.pdb
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\SalesM.csprojResolveAssemblyReference.cache
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\obj\iPhoneSimulator\Debug\SalesM.exe.mdb
+C:\Users\Hamlet\documents\visual studio 2015\Projects\SalesM\SalesM\bin\iPhoneSimulator\Debug\SalesM.exe.mdb

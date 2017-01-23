@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="  Copyright (c) 2017" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="8ie-xW-0ye">
+                    <rect key="frame" x="20" y="536" width="281" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" colorSpace="calibratedRGB" red="0.49803921568627452" green="0.37647058823529411" blue="0.29411764705882354" alpha="1"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Images/NewDesign/logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="9">
+                    <rect key="frame" x="40" y="84" width="240" height="128"/>
+                    <variation key="heightClass=regular-widthClass=compact" misplaced="YES"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Saleinfo" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="12">
+                    <rect key="frame" x="76" y="220" width="183" height="69"/>
+                    <fontDescription key="fontDescription" name="Didot" family="Didot" pointSize="40"/>
+                    <nil key="highlightedColor"/>
+                    <color key="textColor" colorSpace="calibratedRGB" red="0.49803921568627452" green="0.37647058823529411" blue="0.29411764705882354" alpha="1"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="12" secondAttribute="bottom" constant="287" id="13"/>
+                <constraint firstItem="12" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="51" id="14"/>
+                <constraint firstAttribute="trailing" secondItem="12" secondAttribute="trailing" constant="51" id="15"/>
+                <constraint firstItem="12" firstAttribute="top" secondItem="9" secondAttribute="centerY" constant="72" id="16"/>
+                <constraint firstItem="9" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="40" id="17"/>
+                <constraint firstItem="9" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="84" id="18"/>
+                <constraint firstItem="12" firstAttribute="bottom" secondItem="9" secondAttribute="bottom" constant="69" id="19"/>
+                <constraint firstAttribute="bottom" secondItem="8ie-xW-0ye" secondAttribute="bottom" constant="20" id="Kzo-t9-V3l"/>
+                <constraint id="23" firstItem="iN0-l3-epB" firstAttribute="trailing" secondItem="8ie-xW-0ye" secondAttribute="trailing" constant="19"/>
+                <constraint id="24" firstItem="8ie-xW-0ye" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="9"/>
+                    <exclude reference="12"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="17"/>
+                    <exclude reference="18"/>
+                    <exclude reference="13"/>
+                    <exclude reference="14"/>
+                    <exclude reference="15"/>
+                    <exclude reference="16"/>
+                    <exclude reference="19"/>
+                    <exclude reference="23"/>
+                    <exclude reference="24"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular-widthClass=compact">
+                <mask key="subviews">
+                    <include reference="9"/>
+                    <include reference="12"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="17"/>
+                    <include reference="18"/>
+                    <include reference="13"/>
+                    <include reference="14"/>
+                    <include reference="15"/>
+                    <include reference="16"/>
+                    <include reference="19"/>
+                    <include reference="23"/>
+                    <include reference="24"/>
+                </mask>
+                <color key="backgroundColor" colorSpace="calibratedRGB" red="0.0784313725490196" green="0.0784313725490196" blue="0.0784313725490196" alpha="1"/>
+            </variation>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Images/NewDesign/background.tif" width="750" height="1334"/>
+        <image name="Images/NewDesign/logo.png" width="250" height="250"/>
+        <image name="Images/Background.png" width="3112" height="4917"/>
+        <image name="Images/CellBackground.png" width="2892" height="659"/>
+        <image name="Images/CellBorder.png" width="3125" height="813"/>
+        <image name="Images/DemoBanner.png" width="3129" height="815"/>
+        <image name="Images/Grey.jpg" width="705" height="705"/>
+        <image name="Images/NewDesign/back forword.png" width="750" height="80"/>
+        <image name="Images/NewDesign/closed.png" width="750" height="195"/>
+        <image name="Images/NewDesign/generate.png" width="310" height="80"/>
+        <image name="Images/NewDesign/password,username or email.png" width="610" height="90"/>
+        <image name="Images/NewDesign/right rtansparance.png" width="750" height="195"/>
+        <image name="Images/NewDesign/sign up, log in.png" width="210" height="80"/>
+        <image name="Images/NewDesign/store burberry.tif" width="750" height="195"/>
+        <image name="Images/NewDesign/store coincasa.tif" width="750" height="195"/>
+        <image name="Images/NewDesign/store ermenigildo zegna.tif" width="750" height="195"/>
+        <image name="Images/NewDesign/store ralph loren polo.tif" width="750" height="195"/>
+        <image name="Images/NewDesign/store tateossian london.tif" width="750" height="195"/>
+        <image name="Images/NewDesign/storegorgio armani.tif" width="750" height="195"/>
+        <image name="Images/NewDesign/transparance above store .png" width="750" height="195"/>
+        <image name="Images/Red.jpg" width="705" height="705"/>
+        <image name="Images/Stores/1.png" width="508" height="513"/>
+        <image name="Images/Stores/2.png" width="584" height="683"/>
+        <image name="Images/Stores/3.png" width="500" height="497"/>
+        <image name="Images/Stores/4.png" width="588" height="654"/>
+        <image name="SidebarNavigation/component/icons/SidebarNavigation_128x128.png" width="128" height="128"/>
+        <image name="SidebarNavigation/component/icons/SidebarNavigation_512x512.png" width="512" height="512"/>
+        <image name="threelines.png" width="30" height="30"/>
+        <image name="Images" width="508" height="513"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>
